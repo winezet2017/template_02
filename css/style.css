@@ -31,7 +31,7 @@ body {
   content: "";
 }
 
-.logo_blk {
+.logo-blk {
   float: left;
   margin-right: 100px;
 }
@@ -41,17 +41,17 @@ body {
   height: 36px;
 }
 
-.nav_blk {
+.nav-blk {
   float: right;
   margin-top: 10px;
   /*width: 100%;*/
 }
 
-.nav_blk li {
+.nav-blk li {
   display: inline-block;
 }
 
-.nav_blk a {
+.nav-blk a {
   padding: 13px 20px;
   color: #FFF;
   font-size: 13px;
@@ -63,7 +63,7 @@ body {
   background: #76C38F;
 }
 
-.nav_blk a:hover {
+.nav-blk a:hover {
   background: #76C38F;
 }
 
