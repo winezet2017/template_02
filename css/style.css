@@ -4,10 +4,10 @@
 }
 
 * {
+  list-style: none;
   box-sizing: border-box;
   font-family: Georgia, serif;
   text-decoration: none;
-  list-style: none;
 }
 
 .width-fixer {
@@ -234,6 +234,8 @@ body {
   margin-top: 62px;
 }
 
+
+.lastestwork-container-2 li,
 .lastestwork-container li {
   float: left;
   width: 30%;
