@@ -415,6 +415,7 @@ border-radius: 4px;
 
 .phone a {
   color: #616161;
+pointer-events:none;
 }
 
 .feedback-form {
@@ -634,8 +635,8 @@ form button:hover {
   }
 
   .menu ul li button {
-    padding: 0.891vw 2.29vw;
     margin-left: 0;
+    padding: 0.891vw 2.29vw;
   }
 
   .menu ul li a:hover {
@@ -801,7 +802,9 @@ form button:hover {
   .feedback-form {
     padding: 7.552vw 0 0 3.255vw;
   }
-
+  .phone a {
+  pointer-events:auto;
+  }
   .feedback-form p {
     letter-spacing: -0.026vw;
   }
@@ -1132,7 +1135,9 @@ form button:hover {
   .phone {
     margin-left: 8.594vw;
   }
-
+  .phone a {
+    pointer-events:auto;
+    }
   .feedback-blk {
     flex-direction: column;
   }
