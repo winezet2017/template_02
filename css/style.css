@@ -502,6 +502,7 @@ form button:hover {
 .logo-blk p {
   line-height: 1.2;
   margin-top: 32px;
+  color: #616161;
   font-size: 12px;
 }
 
@@ -512,6 +513,7 @@ form button:hover {
 }
 
 .category p {
+  color: #616161;
   font-size: 16px;
   font-weight: 400;
 }
